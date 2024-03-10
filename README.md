@@ -1,4 +1,4 @@
-<# 💫 About Me:
+# 💫 About Me:
 Hi , I am Saurav Kumar Roy an ELC(2023-27) from Amrita Vishwa Vidyapeetham, Amritapuri<br>
 
 
