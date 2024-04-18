@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,I am Saurav Kumar Roy an ELC(2023-27) student from Amrita Vishwa Vidyapeetham, Amritapuri <br><br>🔭 I’m currently working on  a flood detection software using machine learning<br>🌱 I’m currently learning Deep learning and neural networks<br> How to reach me? roysauravkumar42@gmail.com<br>my Telegram user_id =@Sauravnotfound29
+Hi,I am Saurav Kumar Roy an ELC(2023-27) student from Amrita Vishwa Vidyapeetham, Amritapuri <br>🌱 I’m currently learning Deep learning and neural networks<br> How to reach me? roysauravkumar42@gmail.com<br>my Telegram user_id =@Sauravnotfound29
 
 
 ## 🌐 Socials:
