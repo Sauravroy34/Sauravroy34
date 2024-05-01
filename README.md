@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi,I am Saurav Kumar Roy an ELC(2023-27) student from Amrita Vishwa Vidyapeetham, Amritapuri <br>🌱 I’m currently learning Deep learning and neural networks<br> 
 ## How to reach me? 
-## My email id = roysauravkumar42@gmail.com<br>
-## My Telegram user_id = @Sauravnotfound29
+### My email id = roysauravkumar42@gmail.com<br>
+### My Telegram user_id = @Sauravnotfound29
 
 
 ## 🌐 Socials:
